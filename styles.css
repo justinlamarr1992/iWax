@@ -1,0 +1,88 @@
+h1 {
+  color: red;
+}
+
+body {
+  text-align: center;
+}
+
+section {}
+
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+}
+
+.colored-section {
+  background-color: #810000;
+}
+
+.white-section {
+  background-color: #eeebdd
+}
+
+#title {
+  color: #eeebdd;
+  padding-top: 56px;
+  padding-bottom: 0;
+}
+
+#operations {
+  color: #1b1717;
+}
+
+.picture-credit {
+  font-size: 3px;
+}
+
+.top-heading {
+  font-weight: bold;
+  font-size: 4rem;
+  margin-top: 25px;
+}
+
+.top-picture {
+  width: 500px;
+  margin-top: 50px;
+}
+
+#reviews {
+  color: #eeebdd;
+}
+
+#services {
+  color: #1b1717;
+  padding: 25px 0 25px 0;
+}
+
+.service-row {
+  margin: 0 10px 0 10px;
+}
+
+.service-boxes {
+  padding: 10px 10px 10px 10px;
+  margin: 0 0 0 0;
+}
+
+#contact {
+  color: #eeebdd;
+}
+
+/* Wax Video Trial*/
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: relative;
+  top: 600px;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 70px;
+}
+
+.video-title {}
